@@ -1,7 +1,7 @@
 {
-  "name": "amplify-vite-react-template",
+  "name": "visor-admin-ui",
   "private": true,
-  "version": "0.0.0",
+  "version": "0.1.0",
   "type": "module",
   "scripts": {
     "dev": "vite",
@@ -24,14 +24,14 @@
     "@typescript-eslint/parser": "^7.2.0",
     "@vitejs/plugin-react": "^4.2.1",
     "aws-cdk": "^2.138.0",
-    "aws-cdk-lib": "^2.138.0",
+    "aws-cdk-lib": "^2.184.0",
     "constructs": "^10.3.0",
-    "esbuild": "^0.20.2",
+    "esbuild": "^0.25.0",
     "eslint": "^8.57.0",
     "eslint-plugin-react-hooks": "^4.6.0",
     "eslint-plugin-react-refresh": "^0.4.6",
     "tsx": "^4.7.2",
     "typescript": "^5.4.5",
-    "vite": "^5.4.10"
+    "vite": "^6.2.3"
   }
 }
